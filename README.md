@@ -22,7 +22,7 @@ Currently working on projects in machine learning, natural language processing, 
 
 ---
 
-## Featured Projects
+## Example Projects
 
 - **Visualizing Customer Purchasing Behaviors** – Analyzed transaction data to uncover purchasing patterns, created visualizations in R, and generated actionable recommendations. 
 - **Hit Song Science Project** – Built an algorithm in Python to predict hit songs by scraping multi-platform music data; results displayed via interactive Tableau dashboard. 
